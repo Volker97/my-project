@@ -1,6 +1,5 @@
-def main():
-	print("Hello World")
+from .hello_lib import hello
 
 
 if __name__ == '__main__':
-	main()
+	hello()
