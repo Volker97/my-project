@@ -1,4 +1,4 @@
-from .hello_lib import hello
+from app.hello_lib import hello
 
 
 if __name__ == '__main__':
